@@ -8,5 +8,5 @@ LabVIEW is a graphical programming environment engineers use to develop automate
 https://www.ni.com/en-in/shop/labview.html
 
 
-### What is teh difference in between MATLAB and LabVIEW?
+### What is the difference in between MATLAB and LabVIEW?
 MATLAB mainly provides mathematical/numerical computing environment, whereas LabVIEW is a system design platform that allows data acquisition, test automation, instrument control and embedded system design.
